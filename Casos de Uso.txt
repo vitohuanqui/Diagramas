@@ -5,34 +5,37 @@ Usuario:
 4	desactivar cuenta				-	chino
 5	activar cuenta					-	chino
 
-6	buscar cancion					-	checho
-7	reproduce canciones				-	checho
-8	califica canciones				-	checho
+6	buscar cancion					-	checho		CS
+7	reproduce canciones				-	chuju
+8	reproduce album					-	checho		CS
+9	reproduce artista				-	checho		CS
+10	califica canciones				-	checho		CS
 
-9	crea lista de reproduccion			-	joel
-10	eliminar lista de reproduccion			-	joel
+11	crea lista de reproduccion			-	joel		CS
+12	reproduce lista de reproduccion			-	checho		CS
+13	eliminar lista de reproduccion			-	joel		CS
 
-11	buscar usuario					-	chuju
-12	sigue a usuarios				-	checho
-13	deja de seguir usuarios				-	checho
+14	buscar usuario					-	chuju
+15	sigue a usuarios				-	checho		CS
+16	deja de seguir usuarios				-	checho		CS
 
 Administador
-14	iniciar sesion					-	vito
-15	cerrar sesion					-	vito
-16	desactivar cuenta				-	vito
-17	activar cuenta					-	vito
+17	iniciar sesion					-	vito		C
+18	cerrar sesion					-	vito		C
+19	desactivar cuenta				-	vito		C
+20	activar cuenta					-	vito		C
 
-18	agregar canciones				-	rayito
-19	bloquear canciones				-	rayito
-20	desbloquear canciones				-	rayito
+21	agregar canciones				-	rayito
+22	bloquear canciones				-	rayito
+23	desbloquear canciones				-	rayito
 
-21	agregar albumes					-	chano
-22	bloquear albumes				-	chano
-23	desbloquear albumes				-	chano
+24	agregar albumes					-	chano		C
+25	bloquear albumes				-	chano		C
+26	desbloquear albumes				-	chano		C
 
-24	agregar artistas				-	chano
-25	bloquear artistas				-	chano
-26	desbloquear artistas				-	chano
+27	agregar artistas				-	chano		C
+28	bloquear artistas				-	chano		C
+29	desbloquear artistas				-	chano		C
 
-27	bloquear usuarios				-	joel
-28	desbloquear usuarios				-	joel
+30	bloquear usuarios				-	joel		CS
+31	desbloquear usuarios				-	joel		CS
