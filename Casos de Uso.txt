@@ -1,0 +1,38 @@
+Usuario:
+1	registrarse					-	rayito
+2	iniciar sesion					-	chino
+3	cerrar sesion					-	chino
+4	desactivar cuenta				-	chino
+5	activar cuenta					-	chino
+
+6	buscar cancion					-	checho
+7	reproduce canciones				-	checho
+8	califica canciones				-	checho
+
+9	crea lista de reproduccion			-	joel
+10	eliminar lista de reproduccion			-	joel
+
+11	buscar usuario					-	chuju
+12	sigue a usuarios				-	checho
+13	deja de seguir usuarios				-	checho
+
+Administador
+14	iniciar sesion					-	vito
+15	cerrar sesion					-	vito
+16	desactivar cuenta				-	vito
+17	activar cuenta					-	vito
+
+18	agregar canciones				-	rayito
+19	bloquear canciones				-	rayito
+20	desbloquear canciones				-	rayito
+
+21	agregar albumes					-	chano
+22	bloquear albumes				-	chano
+23	desbloquear albumes				-	chano
+
+24	agregar artistas				-	chano
+25	bloquear artistas				-	chano
+26	desbloquear artistas				-	chano
+
+27	bloquear usuarios				-	joel
+28	desbloquear usuarios				-	joel
