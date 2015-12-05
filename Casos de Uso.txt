@@ -29,10 +29,10 @@ Administador
 22	bloquear canciones				-	rayito		C
 23	desbloquear canciones				-	rayito		C
 
-24	agregar albumes					-	chano		C
-25	bloquear albumes				-	chano		C
-26	desbloquear albumes				-	chano		C
+24	agregar albumes					-	chano		CS
+25	bloquear albumes				-	chano		CS
+26	desbloquear albumes				-	chano		CS
 
-27	agregar artistas				-	chano		C
-28	bloquear artistas				-	chano		C
-29	desbloquear artistas				-	chano		C
+27	agregar artistas				-	chano		CS
+28	bloquear artistas				-	chano		CS
+29	desbloquear artistas				-	chano		CS
