@@ -1,0 +1,17 @@
+Diagrama de Casos de Uso
+Dejar nomas el reproducir cancion, y crear extends de este que son (reproducir album, reproducir artista y reproducir lista de reroduccion)
+Eliminar los dos casos de uso de Bloquear y Desbloquear Usuario.
+
+
+
+Secuencia - Crear Lista de Reproduccion
+Creas la lista de reproduccion, insertas canciones(ID) en ella y luego guardas en DB y luego mostrar mensaje al usuario siempre.
+
+
+
+Secuencia - Eliminar Lista de Reproduccion
+No eliminas las canciones, solo eliminas la lista y actualizas la DB, luego mostrar un mensaje al usuario de que se ha eliminado pero debes pasar por todas las capas porque no puede destruirse de la nada.
+
+
+Secuencia - Buscar Cancion
+Cambiar la Interfaz Artista por lo que tenia que ser jajajaja

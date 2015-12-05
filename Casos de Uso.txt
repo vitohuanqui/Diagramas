@@ -12,12 +12,12 @@ Usuario:
 10	califica canciones				-	checho		CS
 
 11	crea lista de reproduccion			-	joel		CS
-12	reproduce lista de reproduccion		-	checho		CS
+12	reproduce lista de reproduccion			-	checho		CS
 13	eliminar lista de reproduccion			-	joel		CS
 
-14	buscar usuario					-	chuju
+14	buscar usuario					-	chuju		C
 15	sigue a usuarios				-	checho		CS
-16	deja de seguir usuarios			-	checho		CS
+16	deja de seguir usuarios				-	checho		CS
 
 Administador
 17	iniciar sesion					-	vito		C
@@ -36,6 +36,3 @@ Administador
 27	agregar artistas				-	chano		C
 28	bloquear artistas				-	chano		C
 29	desbloquear artistas				-	chano		C
-
-30	bloquear usuarios				-	joel		CS
-31	desbloquear usuarios				-	joel		CS
