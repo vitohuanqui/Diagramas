@@ -1,5 +1,5 @@
 Usuario:
-1	registrarse					-	rayito
+1	registrarse					-	rayito		C
 2	iniciar sesion					-	chino
 3	cerrar sesion					-	chino
 4	desactivar cuenta				-	chino
@@ -12,12 +12,12 @@ Usuario:
 10	califica canciones				-	checho		CS
 
 11	crea lista de reproduccion			-	joel		CS
-12	reproduce lista de reproduccion			-	checho		CS
+12	reproduce lista de reproduccion		-	checho		CS
 13	eliminar lista de reproduccion			-	joel		CS
 
 14	buscar usuario					-	chuju		C
 15	sigue a usuarios				-	checho		CS
-16	deja de seguir usuarios				-	checho		CS
+16	deja de seguir usuarios			-	checho		CS
 
 Administador
 17	iniciar sesion					-	vito		C
@@ -25,9 +25,9 @@ Administador
 19	desactivar cuenta				-	vito		C
 20	activar cuenta					-	vito		C
 
-21	agregar canciones				-	rayito		C
-22	bloquear canciones				-	rayito		C
-23	desbloquear canciones				-	rayito		C
+21	agregar canciones				-	rayito		CS
+22	bloquear canciones				-	rayito		CS
+23	desbloquear canciones				-	rayito		CS
 
 24	agregar albumes					-	chano		CS
 25	bloquear albumes				-	chano		CS
