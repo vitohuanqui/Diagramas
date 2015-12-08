@@ -1,9 +1,9 @@
 Usuario:
 1	registrarse					-	rayito		C
-2	iniciar sesion					-	chino
-3	cerrar sesion					-	chino
-4	desactivar cuenta				-	chino
-5	activar cuenta					-	chino
+2	iniciar sesion					-	chino		CS
+3	cerrar sesion					-	chino		CS
+4	desactivar cuenta				-	chino		C
+5	activar cuenta					-	chino		C
 
 6	buscar cancion					-	checho		CS
 7	reproduce canciones				-	chuju
@@ -20,8 +20,8 @@ Usuario:
 16	deja de seguir usuarios				-	checho		CS
 
 Administador
-17	iniciar sesion					-	vito		C
-18	cerrar sesion					-	vito		C
+17	iniciar sesion					-	vito		CS
+18	cerrar sesion					-	vito		CS
 19	desactivar cuenta				-	vito		C
 20	activar cuenta					-	vito		C
 
