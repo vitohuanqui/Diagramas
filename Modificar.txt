@@ -1,22 +1,27 @@
-Secuencia - Buscar Cancion
-Cambiar la Interfaz Artista por lo que tenia que ser jajajaja
-
-Diagrama de Clases:
-	Administrador
-		Funciones para desbloquear album artista y cancion
-	Usuario
-		Eliminar funcion ObtenerInformación
-	PlayList
-		El array de canciones es en verdad un array de enteros que son los indices
-		Agregar Codigo string
-		La funcion quitar cancion que se llame remover y recibe el indice(cancion)
+Diagrama de Clases
 	Artista
-		Elminar ARRAY de Canciones ya que los albumes ya tienen esas canciones
-		Agregar funcion Agregar a PLAYLIST
-		Agregar una funcion Obtener Albumes
-		Agregar Codigo string
-	Album
-		Agregar Codigo string
-		Agregar funcion Agregar a PLAYLIST
-	Cancion
-		Agregar Codigo string
+		Agregar funcion "Agregar A Playlist"
+	Admin
+		Agregar funcion "DesbloquearCancion(Cancion)"
+		Agregar funcion "DesbloquerAlbum(Album)"
+		Agregar funcion "DesbloquerArtista(Artista)"
+
+	Reproductor(OPCIONAL)
+		Crear Clase Reproductor que Tiene Funciones:
+			reproducirCancion()
+			detenerCancion()
+			pausarCancion()
+			siguienteCancion()
+			anteriorCancion()
+			añadirArtista(Artista)
+			añadirCancion(Cancion)
+			añadirAlbum(Album)
+			añadirPlaylist(Playlist)
+			removerCancion(ID)
+			GuardarPlaylistActual()
+			ReproduccionNormal()
+			ReproduccionAleatorio()
+		Y como atributos tiene su propio Playlist:
+			bool reproduccion_aleatoria=0
+			Playlist temporal
+		y se releaciona con el usuario porque el usa esos metodos

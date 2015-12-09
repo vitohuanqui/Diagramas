@@ -5,8 +5,8 @@ Usuario:
 4	desactivar cuenta				-	chino		C
 5	activar cuenta					-	chino		C
 
-6	buscar cancion					-	checho		CS
-7	reproduce canciones				-	chuju
+6	buscar cancion					-	chano		CS
+7	reproduce canciones				-	chano		CS
 8	reproduce album					-	checho		CS
 9	reproduce artista				-	checho		CS
 10	califica canciones				-	checho		CS
@@ -15,7 +15,7 @@ Usuario:
 12	reproduce lista de reproduccion			-	checho		CS
 13	eliminar lista de reproduccion			-	joel		CS
 
-14	buscar usuario					-	chuju		C
+14	buscar usuario					-	chuju		CS
 15	sigue a usuarios				-	checho		CS
 16	deja de seguir usuarios				-	checho		CS
 
