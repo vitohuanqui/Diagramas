@@ -1,5 +1,5 @@
 Usuario:
-1	registrarse					-	rayito		C
+1	registrarse					-	rayito		CS
 2	iniciar sesion					-	chino		CS
 3	cerrar sesion					-	chino		CS
 4	desactivar cuenta				-	chino		C
