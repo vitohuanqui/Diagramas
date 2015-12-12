@@ -2,8 +2,8 @@ Usuario:
 1	registrarse					-	rayito		CS
 2	iniciar sesion					-	chino		CS
 3	cerrar sesion					-	chino		CS
-4	desactivar cuenta				-	chino		C
-5	activar cuenta					-	chino		C
+4	desactivar cuenta				-	chino		CS
+5	activar cuenta					-	chino		CS
 
 6	buscar cancion					-	chano		CS
 7	reproduce canciones				-	chano		CS
