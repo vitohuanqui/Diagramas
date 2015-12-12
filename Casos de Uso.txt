@@ -22,8 +22,8 @@ Usuario:
 Administador
 17	iniciar sesion					-	vito		CS
 18	cerrar sesion					-	vito		CS
-19	desactivar cuenta				-	vito		C
-20	activar cuenta					-	vito		C
+19	desactivar cuenta				-	vito		CS
+20	activar cuenta					-	vito		CS
 
 21	agregar canciones				-	rayito		CS
 22	bloquear canciones				-	rayito		CS
